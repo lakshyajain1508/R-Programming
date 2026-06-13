@@ -170,4 +170,16 @@ student_marks <- 92.5
 is_passed <- TRUE
 ```
 
+# Key Takeaways
 
+* Variables store data.
+* `<-` is the preferred assignment operator.
+* R has five basic data types:
+
+  * Numeric
+  * Integer
+  * Character
+  * Logical
+  * Complex
+* Use `class()`, `typeof()`, and `str()` to inspect data.
+* Use `as.numeric()`, `as.character()`, and similar functions for type conversion.
